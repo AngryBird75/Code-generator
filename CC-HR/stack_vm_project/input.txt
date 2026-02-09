@@ -1,0 +1,3 @@
+int x = 10 + 20;
+int y = x * 2;
+std::cout << y << std::endl;
